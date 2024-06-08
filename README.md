@@ -12,6 +12,7 @@ Here are some details about me:
 💻 Favorite Projects: 
 - Metroid Survival (code.org, JavaScript, 2022)
 - Console Nonogram (code.org, Java, 2024)
+- The Legend of Zelda: Call of the Elders (Unity, C#, 2024)
 
 <!---
 ocarinaofdread/ocarinaofdread is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
