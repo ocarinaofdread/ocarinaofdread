@@ -5,7 +5,7 @@ I started programming when I was 7 on Scratch, and have since dabbled in JavaScr
 
 Here are some details about me:
 - 🎮 I love video games, believe it or not. My favorites are Zelda, Metroid, Mario, Ace Attorney, and Donkey Kong.
-- 🌱 I’m currently learning Unity (C#).
+- 🌱 I’m currently learning Python.
 - 😄 Pronouns: He/Him
 - 🎉 Fun Fact: I won $500 from a NMSI competition with my Metroid Survival project.
 
