@@ -15,6 +15,7 @@ Here are some details about me:
 - The Legend of Zelda: Call of the Elders (Unity / C#, 2024)
 - Vengeance of a Mage (Unity / C#, 2025)
 - Jenga Bot (Arduino / C++, 2026)
+- VESSLE (Unity / C#, 2026)
 
 <!---
 ocarinaofdread/ocarinaofdread is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
