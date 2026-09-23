@@ -6,7 +6,12 @@ Hello! I'm ocarinaofdread, a.k.a. just a students who wants to make things.
 - I love video games, believe it or not. My favorites are Zelda, Metroid, Mario, Ace Attorney, and Mafia.
 - I’m currently working on projects with Unity (C#), Godot (GDScript / C#), Unreal Engine (C++), HTML and CSS, and Python.
 
-💻 Favorite Projects: 
+💭 Current Projects:
+- Ace Attorney Cut-In Creator (Unity / C# / Javascript / HTML)
+- 3DSWright (Python, C++)
+- Various other game projects (Godot, Unreal, Unity, etc.)
+
+💻 Favorite Past Projects: 
 - VESSLE (Unity / C#, 2026)
 - Jenga Bot (Arduino / C++, 2026)
 - Vengeance of a Mage (Unity / C#, 2025)
