@@ -4,7 +4,7 @@ Hello! I'm ocarinaofdread, a.k.a. just a student who wants to make things.
 
 💭 Current Projects:
 - Ace Attorney Cut-In Creator (Unity / C# / Javascript / HTML)
-- CWright (Python, C++)
+- CWrightWright (Python, C++)
 - Various other game projects (Godot, Unreal, Unity, etc.)
 
 Don't hesitate to reach out if you have any questions about any of my projects! If there's one thing I love more than creating things, it's explaining the things I create.
